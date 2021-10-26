@@ -1,0 +1,3 @@
+interface moduleOptions {
+    host?: string;
+}
