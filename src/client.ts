@@ -2,7 +2,7 @@
  * Yggdrasil
  *
  * A port of node-yggdrasil to Deno
- * created by Blocks_n_more
+ * ported by Blocks_n_more
  */
 
 import { call, callbackify } from './util.ts';

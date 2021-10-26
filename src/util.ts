@@ -2,8 +2,9 @@
  * Yggdrasil
  *
  * A port of node-yggdrasil to Deno
- * created by Blocks_n_more
+ * ported by Blocks_n_more
  */
+
 import { Buffer } from 'https://deno.land/std@0.113.0/node/buffer.ts';
 import { YggVersion } from '../mod.ts';
 

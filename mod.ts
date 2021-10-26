@@ -2,7 +2,7 @@
  * Yggdrasil
  * 
  * A port of node-yggdrasil to Deno
- * created by Blocks_n_more
+ * ported by Blocks_n_more
  */
 
 export const YggVersion = "1.6.1";

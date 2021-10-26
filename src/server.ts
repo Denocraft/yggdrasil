@@ -2,7 +2,7 @@
  * Yggdrasil
  *
  * A port of node-yggdrasil to Deno
- * created by Blocks_n_more
+ * ported by Blocks_n_more
  */
 
 import { createHash } from 'https://deno.land/std@0.113.0/node/crypto.ts';
